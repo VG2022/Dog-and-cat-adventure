@@ -1,0 +1,45 @@
+body {
+    background-color: #42f578;
+}
+
+.next-button {
+    height: 20px;
+    width: 90px;
+}
+
+.dog-and-cat {
+    height: 400px;
+    width: 500px;
+}
+
+.Dragon-attack {
+    height: 400px;
+    width: 500px; 
+}
+
+.worried-dog {
+    height: 400px; 
+    width: 500px;
+}
+
+.next-button-two {
+    height: 20px;
+    width: 90px;
+}  
+
+.path {
+	
+    height: 400px; 
+    width: 500px; 
+    background-color: #8d5d9c;
+} 
+
+.Dragon {
+    height: 500px; 
+    width: 400px;
+} 
+
+.dog-Fight {
+    height: 500px; 
+    width: 500px;
+}
